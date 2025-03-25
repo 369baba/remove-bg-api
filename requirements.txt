@@ -2,10 +2,3 @@ Flask
 carvekit
 requests
 Pillow
-
-
-
-
-
-
-Correction requirements.txt
