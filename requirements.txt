@@ -1,0 +1,17 @@
+Flask
+carvekit
+requests
+Pillow
+
+
+
+
+
+
+
+
+
+
+
+
+Ajout du fichier requirements.txt
