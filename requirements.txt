@@ -8,10 +8,4 @@ Pillow
 
 
 
-
-
-
-
-
-
-Ajout du fichier requirements.txt
+Correction requirements.txt
